@@ -57,10 +57,3 @@
   <a href="https://t.me/mohamedyasser_dev"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white"></a>
   <a href="mailto:mohamedy.dev@gmail.com"><img src="https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohamedy.dev@gmail.com"></a>
   <a href="https://medium.com/@moahmedy.dev"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mohamedy.dev"></a> 
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mohamed-abdelfadel" alt="profile visitors">
-    <img src="https://komarev.com/ghpvc/?username=mohamed-abdelfadel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abdelfadel" />
-  </a>
-</p>
