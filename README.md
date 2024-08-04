@@ -45,8 +45,9 @@
 </p>
 <div>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelfadel&show_icons=true&locale=en" alt="mohamed-abdelfadel" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-abdelfadel&" alt="mohamed-abdelfadel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelfadel&show_icons=true&locale=en" alt="mohamed-abdelfadel" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-abdelfadel&" alt="mohamed-abdelfadel" />
+  <br>
 </p>
 </div>
 <hr>
