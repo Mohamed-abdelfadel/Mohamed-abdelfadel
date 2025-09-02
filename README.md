@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There, Fancy seeing you here! <img src="https://user-images.githubusercontent.com/21185758/90338872-fd1c7d00-dfec-11ea-96f1-ca4245a05836.gif" width="30px"></h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
